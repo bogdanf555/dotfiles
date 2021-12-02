@@ -3,3 +3,5 @@
 [user]
 	email = bogdan.fuia@gmail.com
 	name = Bogdan Fuia
+[core]
+	editor = vim
