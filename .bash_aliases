@@ -13,4 +13,4 @@ alias la='ls -a'
 alias l='ls -la'
 
 # shorcut for python
-alias py=python
+alias py=python3
