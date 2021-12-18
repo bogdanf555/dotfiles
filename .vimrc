@@ -68,8 +68,8 @@ set ttyfast
 set laststatus=2
 
 " Last line
-set showmode
-set showcmd
+" set showmode
+" set showcmd
 
 " Searching
 nnoremap / /\v
@@ -133,6 +133,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
 call plug#end()
+
+let g:airline_powerline_fonts = 1
 
 " }}}
 
