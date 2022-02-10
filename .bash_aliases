@@ -14,3 +14,6 @@ alias l='ls -la'
 
 # shorcut for python
 alias py=python3
+
+# shorcut for removing directories recursively and forced
+alias rd='rm -rf'
